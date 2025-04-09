@@ -3,7 +3,6 @@ package org.playwright.main;
 import com.microsoft.playwright.*;
 
 public class LocatorConcept {
-
     public static void main(String[] args) {
 
         try(Playwright playwright = Playwright.create()){
